@@ -19,7 +19,7 @@ const MyProfile = () => {
           Technical Skills
         </h2>
         <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
-          {['MongoDB', 'Express.js', 'React', 'Node.js', 'Tailwind CSS', 'Redux', 'Firebase', 'AWS'].map((skill) => (
+          {['MongoDB', 'Express.js', 'React', 'Node.js', 'Tailwind CSS', 'Redux', 'React Native', 'Digital Ocean',"html","css"].map((skill) => (
             <div key={skill} className="bg-gray-700 rounded-lg p-3 text-center hover:bg-gray-600 transition-colors">
               {skill}
             </div>
