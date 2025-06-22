@@ -100,7 +100,7 @@ const Sidebar = ({ isOpen, isMobile, toggleSidebar }) => {
           {(isOpen || (hovered && !isMobile)) && (
             <div className="flex items-center">
               <div className="h-8 w-8 rounded-full bg-gradient-to-r from-cyan-400 to-purple-400 flex items-center justify-center text-white font-bold">
-                U
+                K
               </div>
               <div className="ml-3">
                 <p className="text-sm font-medium">Karthick</p>

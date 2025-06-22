@@ -7,6 +7,7 @@ export default {
         height: "height",
         spacing: "margin, padding",
       },
+      
     },
   },
   plugins: [],
